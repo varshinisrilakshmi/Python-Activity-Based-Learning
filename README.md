@@ -1,7 +1,4 @@
 # Python Activity-Based Learning — 10 Simple Case Studies
-
-This folder contains 10 beginner-friendly Python programs for the college ABL assignment.
-
 ## Programs
 1. University Scholarship Eligibility
 2. Progressive Electricity Billing
