@@ -1,4 +1,4 @@
-# Python Activity-Based Learning — 10 Simple Case Studies
+# Python Activity-Based Learning 
 ## Programs
 1. University Scholarship Eligibility
 2. Progressive Electricity Billing
